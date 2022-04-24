@@ -4,10 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariazhlat125&label=Profile%20views&color=0e75b6&style=flat" alt="zakariazhlat125" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakariazhlat125" alt="zakariazhlat125" />
-  </a> 
-</p>
+
 
 - 🌱 I’m currently learning **react,django**
 
@@ -107,13 +104,15 @@
   </a>
 </p>
 
-<p>
+<p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariazhlat125&show_icons=true&locale=en&layout=compact" alt="zakariazhlat125" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariazhlat125&show_icons=true&locale=en" alt="zakariazhlat125" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariazhlat125&show_icons=true&locale=en" alt="zakariazhlat125" /></p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariazhlat125&" alt="zakariazhlat125" />
 </p>
-
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakariazhlat125" alt="zakariazhlat125" />
+  </a> 
+</p>
