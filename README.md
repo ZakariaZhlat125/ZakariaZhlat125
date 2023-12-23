@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **python,django ,django-rest-framework**
 
-- 📫 How to reach me **zakooorr1567@gmail.com**
+- 📫 How to reach me **zakariazhlat@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
