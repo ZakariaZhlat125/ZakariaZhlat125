@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria Zhlat</h1>
-<h3 align="center">A passionate Full Stack developer from Syria</h3>
+<h3 align="center">I am  Full Stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariazhlat125&label=Profile%20views&color=0e75b6&style=flat" alt="zakariazhlat125" /> 
 </p>
