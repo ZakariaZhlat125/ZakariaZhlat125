@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Zakaria%20Zhlat&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20React&descAlignY=58&descColor=e0e0ff" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Zakaria%20Zhlat&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%26%20React&descAlignY=58&descColor=e0e0ff)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zakariazhlat125&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="profile views" />
@@ -139,7 +139,7 @@ I'm passionate about **API-first backend development**, scalable architecture, a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer)
 
 *"Clean code, production mindset, end-to-end ownership."*
 
