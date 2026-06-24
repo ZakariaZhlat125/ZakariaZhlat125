@@ -21,7 +21,7 @@
 ---
 
 <!-- About Me Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> About Me
 
 ```typescript
 const zakaria = {
